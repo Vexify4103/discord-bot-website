@@ -17,7 +17,7 @@ export default function Commands() {
         <title>Commands | Lunio</title>
         <meta
           name="description"
-          content="Commands page | Minimal and awesome discord bot website created with ❤️ using NextJS"
+          content="Commands page | Minimal and awesome discord music bot website created with ❤️ using NextJS"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
