@@ -32,13 +32,13 @@ const Footer = () => {
 				<div className="footer-sec2">
 					<hr />
 					<div className="footer-sec2-link">
-						<Link className="p-color no-decoration" href="#">
-							/support
-						</Link>
 						<Link target="_blank" className="p-color no-decoration" href="https://top.gg/bot/945030475779551415">
 							/topgg
 						</Link>
-						<Link className="p-color no-decoration" href="#">
+						<Link className="p-color no-decoration" href="/tos">
+							/tos
+						</Link>
+						<Link className="p-color no-decoration" href="/privacy">
 							/privacy
 						</Link>
 					</div>

@@ -20,7 +20,6 @@ const Showcase = () => {
 				<h2 className="showcase-header-text h-color">The only discord bot you need!</h2>
 				<p className="showcase-para p-color">The awesome discord music bots that will fill your needs in your discord server.</p>
 
-				<span className="p-color">Bot is online!</span>
 				<div className="showcase-btn">
 					<button className="btn">
 						<Link href={discordBotInviteUrl}>
