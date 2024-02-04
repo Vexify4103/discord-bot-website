@@ -14,7 +14,7 @@ export default function Commands() {
       animate={{ opacity: 1 }}
     >
       <Head>
-        <title>Commands | BOT</title>
+        <title>Commands | Lunio</title>
         <meta
           name="description"
           content="Commands page | Minimal and awesome discord bot website created with ❤️ using NextJS"
